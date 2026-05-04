@@ -81,7 +81,6 @@ Soldadura de una **pieza de grandes dimensiones** tanto en su cara exterior como
 
 [![Soldadura Columna 1](https://img.youtube.com/vi/OQWF42v-As4/maxresdefault.jpg)](https://www.youtube.com/watch?v=OQWF42v-As4)
 
-
 </div>
 
 ---
@@ -97,8 +96,11 @@ Variante del proyecto anterior en la que el cliente solicitó incorporar una **c
 > Este proyecto ilustra el flujo real de trabajo con un cliente: análisis de viabilidad, identificación de limitaciones y propuesta de alternativa técnica.
 
 <div align="center">
-[![Soldadura Columna 2](https://img.youtube.com/vi/adYUza0G9CU/maxresdefault.jpg)](https://www.youtube.com/watch?v=adYUza0G9CU)
+
+[![Modificación Útil Columna](https://img.youtube.com/vi/adYUza0G9CU/maxresdefault.jpg)](https://www.youtube.com/watch?v=adYUza0G9CU)
+
 </div>
+
 ---
 
 ### 4 — Soldadura de Escalera Metálica
